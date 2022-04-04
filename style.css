@@ -1,0 +1,37 @@
+.nav-center
+{
+    color: black;
+    background-color:#ebe2e2;
+    margin:30px;
+    padding:10px;
+    border-radius: 20px;
+}
+.active
+{
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: black;
+    border-radius: 5px;
+    padding: 5px;
+}
+.color
+{
+    font-style: normal;
+    color: ivory;
+}
+.container
+{
+    color: ivory;
+    background-color: black;
+    margin:30px;
+    padding:70px;
+    border-radius: 20px;;
+}
+.butt
+{
+    background-color:whitesmoke;
+    color: black;
+    padding: 10px;
+    margin: 5px;
+    border-radius: 10px;
+}
